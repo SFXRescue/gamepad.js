@@ -13,6 +13,8 @@ HTML5-JavaScript-Gamepad-Controller-Library
 * Does not depend on any other library.
 * Includes minimized version.
 
+This fork fixes an issue where the library would not work on modern browsers, thanks to @khanbabaeifanap.
+Original library by @kallaspriit.
 
 How to use
 ----------
